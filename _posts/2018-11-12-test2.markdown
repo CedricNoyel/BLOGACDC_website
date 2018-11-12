@@ -1,0 +1,10 @@
+---
+layout: post
+title: "test2"
+date: 2018-11-12
+categories: test2
+---
+
+*By a*
+
+a
